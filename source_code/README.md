@@ -109,7 +109,6 @@ $ python livestreaming_age_gender_optimized.py (run.py)
 
 ```
 
-
 ## Acknowledgments
 
 * Rude Carnie (https://github.com/dpressel/rude-carnie)
