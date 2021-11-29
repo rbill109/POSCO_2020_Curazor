@@ -31,3 +31,6 @@ B3 / 김봉재, 김수현, 심혜민, 이형진, 조유민, 한수정
 
 ### Presentation
 [발표 자료](https://github.com/rbill109/POSCO_2020_Curazor/blob/main/Curazor.pdf)
+
+### Guide Line
+[Curazor](https://github.com/rbill109/POSCO_2020_Curazor/tree/main/source_code#readme)
